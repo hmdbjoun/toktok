@@ -1,0 +1,32 @@
+{
+	"version": "server ads v9",
+
+
+	
+	"unityid": "4907885",
+	
+	"unitybanner": "Banner_Android",
+	"unityinter": "Interstitial_Android",
+	"unityreward": "Rewarded_Android",
+
+	"apppodealId": "4907885",
+	"appodealbanner": "4907885",
+	"appodealinter": "4907885",
+				
+	"admobbanner": "ca-app-pub-3940256099942544/6300978111",
+	"admobinter": "ca-app-pub-3940256099942544/1033173712",
+	"admobreward": "ca-app-pub-3940256099942544/5224354917"
+
+
+"adsswitch details":"0:auto  1 admob 2 unity 3 applodeal",	
+
+"adsswitch":"0",
+
+	"adscounter":"0"
+
+
+
+
+
+
+}
